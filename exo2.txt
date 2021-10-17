@@ -1,0 +1,13 @@
+#ASSIGNMENT 1 ON "PROGRAMMING WITH PYTHON" 
+#Student : KAM TSEMO SANDRA MARION 
+#OPTION : MASTER REGULAR, AIMS SENEGAL 
+#Teacher : Yae Ulrich
+
+
+1. ls			
+2. man ls	# a.  Option to "ls" to list all files, home directory, files do you see now...
+3. ls -all	# b1. Option to "ls" to list all files 
+4. ls -R	# b2. Option to "ls" to list all subdirectories
+5. man wc	# c.  Command to count lines, words and characters in a file
+6. wc -l	# d.  Command display only the number of lines
+

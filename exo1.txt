@@ -1,0 +1,41 @@
+    
+#ASSIGNMENT 1 ON "PROGRAMMING WITH PYTHON" 
+#Student : KAM TSEMO SANDRA MARION 
+#OPTION : MASTER REGULAR, AIMS SENEGAL 
+#Teacher : Yae Ulrich
+
+    1. ls	
+    2. mkdir unix			# Create a directory called unix  			
+    3. cd unix
+    4. touch foo.txt			# Create new file foo.txt
+    5. ls
+    6. cp foo.txt foo-copy.txt		# a. Copy the file foo.txt into foo-copy.txt
+    7. ls
+    8. mv foo-copy.txt foo2.txt		# b. Rename the file foo-copy.txt to foo2.txt
+    9. ls
+    10. mkdir data
+    11. cd data
+    12. ls
+    13. cd ..
+    14. mv foo2.txt data		# c. Inside the directory called unix, create a subdirectory 							named data move the file foo2.txt into the data
+    15. cd data
+    16. ls
+    17. cd ..
+    18. mkdir new			# d. Create a new subdirectory called new in the unix 									directory
+    19. ls
+    20. mv data/foo2.txt new		# e. Move the file foo2 in the data directory into the new 									directory
+    21. cd new
+    22. ls
+    23. cd .. 
+    24. mv new/foo2.txt foo-old.txt	# f. Move the file foo2 in the new and change
+							the name to foo-old.txt
+    25. ls
+    26. cd new
+    27. ls
+    28. cd ..
+    29. rm foo-old.txt			# g. Delete the file foo-old.txt
+    30. ls
+    31. rmdir new			# h. Remove the new subdirectory
+    32. ls
+    33. history>>exo1.txt		# i. Type in the command history >> exo1.txt
+   
